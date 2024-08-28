@@ -19,6 +19,12 @@ namespace Exercice_1
             {
                 Console.WriteLine(livre.ToString());
             }
+            int nb_livres = 0;
+            foreach(var livre in livres)
+            {
+                nb_livres++;
+            }
+            Console.WriteLine($"Nombre de livres : {nb_livres}");
         }
     }
 }
