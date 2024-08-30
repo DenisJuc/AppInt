@@ -1,0 +1,14 @@
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net7.0\ExerciseModule2.exe
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net7.0\ExerciseModule2.deps.json
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net7.0\ExerciseModule2.runtimeconfig.json
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net7.0\ExerciseModule2.dll
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net7.0\ExerciseModule2.pdb
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.AssemblyInfoInputs.cache
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.AssemblyInfo.cs
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.csproj.CoreCompileInputs.cache
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.dll
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\refint\ExerciseModule2.dll
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.pdb
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ExerciseModule2.genruntimeconfig.cache
+D:\VS_repos\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net7.0\ref\ExerciseModule2.dll

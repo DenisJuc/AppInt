@@ -1,0 +1,4 @@
+D:\VS_repos\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net7.0\M2_ClasseAffaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_repos\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net7.0\M2_ClasseAffaire.AssemblyInfoInputs.cache
+D:\VS_repos\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net7.0\M2_ClasseAffaire.AssemblyInfo.cs
+D:\VS_repos\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net7.0\M2_ClasseAffaire.csproj.CoreCompileInputs.cache
