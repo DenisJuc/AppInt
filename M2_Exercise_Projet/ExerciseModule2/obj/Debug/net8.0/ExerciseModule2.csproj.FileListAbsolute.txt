@@ -1,0 +1,16 @@
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net8.0\ExerciseModule2.exe
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net8.0\ExerciseModule2.deps.json
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net8.0\ExerciseModule2.runtimeconfig.json
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net8.0\ExerciseModule2.dll
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\bin\Debug\net8.0\ExerciseModule2.pdb
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.AssemblyInfoInputs.cache
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.AssemblyInfo.cs
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.csproj.CoreCompileInputs.cache
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.sourcelink.json
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.dll
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\refint\ExerciseModule2.dll
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.pdb
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.genruntimeconfig.cache
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ref\ExerciseModule2.dll
+C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ExerciseModule2\obj\Debug\net8.0\ExerciseModule2.csproj.AssemblyReference.cache

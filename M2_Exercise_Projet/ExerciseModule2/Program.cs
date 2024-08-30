@@ -1,41 +1,69 @@
 ﻿using System.Diagnostics;
 using System.Text;
+using M2_ClasseAffaire;
 
 namespace ExerciseModule2
 {
     class Program()
     {
-        const uint NOMBRE_ITERATIONS = 100000; // Le nombre d'itérations
+        static GenerateurLivre generaterLivre = new GenerateurLivre();
+        const uint NOMBRE_ITERATIONS = 500000; // Le nombre d'itérations
         public static void Main(string[] args)
         {
             TestInsertionsFin();
+            Console.WriteLine("-------------------------");
+            TestInsertionsDebut();
+            Console.WriteLine("-------------------------");
+            Recherchelivre();
         }
         public static void TestInsertionsFin()
         {
-            const uint nb_insertions = 125000;
 
+            
             Stopwatch sw = new Stopwatch();
-            List<int> list = new List<int>();
-            LinkedList<int> linkedlist = new LinkedList<int>();
+
 
             sw.Start();
+            List<int> list = new List<int>();
             // Insertions par la fin
-            for (int i = 0; i < nb_insertions; i++)
+            for (int i = 0; i < NOMBRE_ITERATIONS; i++)
             {
                 list.Add(i);
             }
             sw.Stop();
+
             Console.Write($"Nombre de millisecondes pour remplir List<> par la fin: {sw.ElapsedMilliseconds}");
             Console.WriteLine("\n");
             sw.Restart();
-            for (int i = 0; i < nb_insertions; i++)
+            LinkedList<int> linkedlist = new LinkedList<int>();
+            for (int i = 0; i < NOMBRE_ITERATIONS; i++)
             {
                 linkedlist.AddLast(i);
             }
+            sw.Stop();
             Console.WriteLine($"Nombre de millisecondes pour remplir LinkedList<> par la fin : {sw.ElapsedMilliseconds}");
+        }
+        public static void TestInsertionsDebut()
+        {
+            // Insertions au debut
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            List<int> list = new List<int>();
+            for (int i = 0; i < NOMBRE_ITERATIONS; i++)
+            {
+                list.Insert(0, i);
+            }
+            sw.Stop();
+            Console.WriteLine($"Nombre de milliseconds pour remplir List<> par le debut : {sw.ElapsedMilliseconds}");
 
-
-
+            sw.Restart();
+            LinkedList<int> linkedlist = new LinkedList<int>();
+            for (int i = 0; i  <= NOMBRE_ITERATIONS; i++)
+            {
+                linkedlist.AddFirst(i);
+            }
+            sw.Stop();
+            Console.WriteLine($"Nombre de millisecondes pour remplir LinkedList par le debut : {sw.ElapsedMilliseconds}");
         }
         public static void TestStringBuilder()
         {
@@ -62,5 +90,29 @@ namespace ExerciseModule2
             sw.Stop();
             Console.WriteLine($"L'utilisation de StringBuilder a pris {sw.ElapsedMilliseconds} millisecondes");
         }
+        void BrasserTableau(int[] tableau)
+        {
+            Random rng = new Random(); for (int i = 0; i < tableau.Length; i++)
+            {
+                int candidat = rng.Next(0, tableau.Length);
+                int temp = tableau[candidat];
+                tableau[candidat] = tableau[i];
+                tableau[i] = temp;
+            }
+        }
+        public static void Recherchelivre()
+        {
+            Stopwatch sw = new Stopwatch();
+            
+            sw.Start();
+            SortedSet<Livre> livres = new SortedSet<Livre>();
+            for (int i = 0; i < 40000; i++)
+            {
+                livres.Add(generaterLivre.CreerNouveauLivre());
+            }
+            sw.Stop();
+            Console.WriteLine($"Ajout des livres dans un SortedSet : {sw.ElapsedMilliseconds}");
+        }
+
     }
 }

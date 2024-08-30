@@ -24,3 +24,4 @@ for (int i = 0; i < NOMBRE_ITERATIONS; i++)
 string deuxiemeChaine = sb.ToString();
 sw.Stop();
 Console.WriteLine($"L'utilisation de StringBuilder a pris {sw.ElapsedMilliseconds} millisecondes");
+

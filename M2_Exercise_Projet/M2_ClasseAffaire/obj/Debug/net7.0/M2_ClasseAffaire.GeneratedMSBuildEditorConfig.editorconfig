@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = M2_ClasseAffaire
-build_property.ProjectDir = D:\VS_repos\M2_Exercise_Projet\M2_ClasseAffaire\
+build_property.ProjectDir = C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\M2_ClasseAffaire\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
