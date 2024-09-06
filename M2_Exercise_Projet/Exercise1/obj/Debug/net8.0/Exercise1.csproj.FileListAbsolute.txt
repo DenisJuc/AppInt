@@ -1,0 +1,5 @@
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\Exercise1\obj\Debug\net8.0\Exercise1.sourcelink.json

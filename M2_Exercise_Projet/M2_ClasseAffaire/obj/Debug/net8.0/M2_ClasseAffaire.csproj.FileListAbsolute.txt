@@ -3,3 +3,8 @@ C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\M2_ClasseAffaire\obj\Deb
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.AssemblyInfo.cs
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.csproj.CoreCompileInputs.cache
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.sourcelink.json
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.AssemblyInfoInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.AssemblyInfo.cs
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.csproj.CoreCompileInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\M2_ClasseAffaire\obj\Debug\net8.0\M2_ClasseAffaire.sourcelink.json

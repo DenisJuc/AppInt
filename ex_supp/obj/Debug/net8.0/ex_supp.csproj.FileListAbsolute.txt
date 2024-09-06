@@ -1,0 +1,15 @@
+C:\Users\2249463\Desktop\appgit\ex_supp\bin\Debug\net8.0\ex_supp.exe
+C:\Users\2249463\Desktop\appgit\ex_supp\bin\Debug\net8.0\ex_supp.deps.json
+C:\Users\2249463\Desktop\appgit\ex_supp\bin\Debug\net8.0\ex_supp.runtimeconfig.json
+C:\Users\2249463\Desktop\appgit\ex_supp\bin\Debug\net8.0\ex_supp.dll
+C:\Users\2249463\Desktop\appgit\ex_supp\bin\Debug\net8.0\ex_supp.pdb
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.AssemblyInfoInputs.cache
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.AssemblyInfo.cs
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.csproj.CoreCompileInputs.cache
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.sourcelink.json
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.dll
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\refint\ex_supp.dll
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.pdb
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ex_supp.genruntimeconfig.cache
+C:\Users\2249463\Desktop\appgit\ex_supp\obj\Debug\net8.0\ref\ex_supp.dll

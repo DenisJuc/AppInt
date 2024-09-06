@@ -10,3 +10,15 @@ C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ClassLibrary1\obj\Debug\
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\refint\Exercise2.dll
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.pdb
 C:\Users\2249463\Source\Repos\AppInt\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\ref\Exercise2.dll
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\bin\Debug\net8.0\Exercise2.deps.json
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\bin\Debug\net8.0\Exercise2.dll
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\bin\Debug\net8.0\Exercise2.pdb
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.AssemblyInfo.cs
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.sourcelink.json
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.dll
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\refint\Exercise2.dll
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\Exercise2.pdb
+C:\Users\2249463\Desktop\appgit\M2_Exercise_Projet\ClassLibrary1\obj\Debug\net8.0\ref\Exercise2.dll

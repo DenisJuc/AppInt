@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\",
+  "WorkspaceRootPath": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\exercisemodule2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|solutionrelative:exercisemodule2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\m2_classeaffaire\\generateurlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\generateurlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\m2_classeaffaire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\m2_classeaffaire\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\m2_classeaffaire\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\exercisemodule2\\exercisemodule2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|solutionrelative:exercisemodule2\\exercisemodule2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\classlibrary1\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|solutionrelative:classlibrary1\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\m2_classeaffaire\\m2_classeaffaire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\m2_classeaffaire\\m2_classeaffaire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\m2_classeaffaire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{672304C7-C210-4662-895A-3E3F8B8C2987}|Exercise1\\Exercise1.csproj|c:\\users\\2249463\\source\\repos\\appint\\m2_exercise_projet\\exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\classlibrary1\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|solutionrelative:classlibrary1\\exercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\exercisemodule2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|solutionrelative:exercisemodule2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\m2_classeaffaire\\generateurlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\generateurlivre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\m2_classeaffaire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC28AEF-F046-4735-8D32-A876F5827C68}|M2_ClasseAffaire\\M2_ClasseAffaire.csproj|solutionrelative:m2_classeaffaire\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1316162F-F6DF-465B-8A33-D8B8BA17D456}|ClassLibrary1\\Exercise2.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672304C7-C210-4662-895A-3E3F8B8C2987}|Exercise1\\Exercise1.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\exercise1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672304C7-C210-4662-895A-3E3F8B8C2987}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\exercisemodule2\\exercisemodule2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE9B532D-98B5-4147-8391-C6C0F5C3D987}|ExerciseModule2\\ExerciseModule2.csproj|solutionrelative:exercisemodule2\\exercisemodule2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672304C7-C210-4662-895A-3E3F8B8C2987}|Exercise1\\Exercise1.csproj|c:\\users\\2249463\\desktop\\appgit\\m2_exercise_projet\\exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{672304C7-C210-4662-895A-3E3F8B8C2987}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\exercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -46,41 +50,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\Exercise1\\Class1.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Class1.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\Exercise1\\Class1.cs",
+              "RelativeToolTip": "Exercise1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:09:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Livre.cs",
-              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\Livre.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\Livre.cs",
               "RelativeDocumentMoniker": "M2_ClasseAffaire\\Livre.cs",
-              "ToolTip": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\Livre.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\Livre.cs",
               "RelativeToolTip": "M2_ClasseAffaire\\Livre.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAiwA4AAAArAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T14:27:29.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GenerateurLivre.cs",
-              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\GenerateurLivre.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\GenerateurLivre.cs",
               "RelativeDocumentMoniker": "M2_ClasseAffaire\\GenerateurLivre.cs",
-              "ToolTip": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\GenerateurLivre.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\GenerateurLivre.cs",
               "RelativeToolTip": "M2_ClasseAffaire\\GenerateurLivre.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowA8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T13:07:04.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Exercise1",
-              "DocumentMoniker": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\Exercise1\\Exercise1.csproj",
+              "DocumentIndex": 9,
+              "Title": "Exercise1.csproj",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\Exercise1\\Exercise1.csproj",
               "RelativeDocumentMoniker": "Exercise1\\Exercise1.csproj",
-              "ToolTip": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\Exercise1\\Exercise1.csproj",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\Exercise1\\Exercise1.csproj",
               "RelativeToolTip": "Exercise1\\Exercise1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -89,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\ClassLibrary1\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Exercise2.csproj",
-              "DocumentMoniker": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\ClassLibrary1\\Exercise2.csproj",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ClassLibrary1\\Exercise2.csproj",
               "RelativeDocumentMoniker": "ClassLibrary1\\Exercise2.csproj",
-              "ToolTip": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\ClassLibrary1\\Exercise2.csproj",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ClassLibrary1\\Exercise2.csproj",
               "RelativeToolTip": "ClassLibrary1\\Exercise2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -115,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "M2_ClasseAffaire.csproj",
-              "DocumentMoniker": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
               "RelativeDocumentMoniker": "M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
-              "ToolTip": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
               "RelativeToolTip": "M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -128,24 +145,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\ExerciseModule2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ExerciseModule2\\Program.cs",
               "RelativeDocumentMoniker": "ExerciseModule2\\Program.cs",
-              "ToolTip": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\ExerciseModule2\\Program.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ExerciseModule2\\Program.cs",
               "RelativeToolTip": "ExerciseModule2\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T12:06:48.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ExerciseModule2.csproj",
-              "DocumentMoniker": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\ExerciseModule2\\ExerciseModule2.csproj",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ExerciseModule2\\ExerciseModule2.csproj",
               "RelativeDocumentMoniker": "ExerciseModule2\\ExerciseModule2.csproj",
-              "ToolTip": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\ExerciseModule2\\ExerciseModule2.csproj",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\ExerciseModule2\\ExerciseModule2.csproj",
               "RelativeToolTip": "ExerciseModule2\\ExerciseModule2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -154,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\Class1.cs",
               "RelativeDocumentMoniker": "M2_ClasseAffaire\\Class1.cs",
-              "ToolTip": "C:\\Users\\2249463\\source\\repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\Class1.cs",
+              "ToolTip": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\Class1.cs",
               "RelativeToolTip": "M2_ClasseAffaire\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T12:06:48.089Z",
               "EditorCaption": ""

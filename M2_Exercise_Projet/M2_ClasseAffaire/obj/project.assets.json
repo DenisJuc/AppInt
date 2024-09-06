@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
+      "projectUniqueName": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
       "projectName": "M2_ClasseAffaire",
-      "projectPath": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
+      "projectPath": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\M2_ClasseAffaire.csproj",
       "packagesPath": "C:\\Users\\2249463\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2249463\\Source\\Repos\\AppInt\\M2_Exercise_Projet\\M2_ClasseAffaire\\obj\\",
+      "outputPath": "C:\\Users\\2249463\\Desktop\\appgit\\M2_Exercise_Projet\\M2_ClasseAffaire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
