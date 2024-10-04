@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\XML"
+    "\\IConversionXML",
+    "\\XML",
+    "\\XML\\Exercice_2"
   ],
-  "SelectedNode": "\\XML",
+  "SelectedNode": "\\IConversionXML\\IConversionXML.sln",
   "PreviewInSolutionExplorer": false
 }

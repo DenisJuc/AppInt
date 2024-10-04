@@ -31,4 +31,12 @@
     <adresse numero="316" rue="Pikeland Ave." />
     <description>Milhouse est le meilleur ami de Bart Simpson et est désespérément amoureux de sa sœur Lisa Simpson.</description>
   </contact>
+  <contact nom="Van Houten" prenom="Milhouse">
+    <adresse numero="316" rue="Pikeland Ave." />
+    <description>Milhouse est le meilleur ami de Bart Simpson et est désespérément amoureux de sa sœur Lisa Simpson.</description>
+  </contact>
+  <contact nom="Van Houten" prenom="Milhouse">
+    <adresse numero="316" rue="Pikeland Ave." />
+    <description>Milhouse est le meilleur ami de Bart Simpson et est désespérément amoureux de sa sœur Lisa Simpson.</description>
+  </contact>
 </contacts>
