@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M2_ClasseAffaire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fee1ac7d6eda12cc1dfc6bd2575b6efa2e5749")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1618eff81b3670d0d6f8845e10ab453a5fcc60a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("M2_ClasseAffaire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M2_ClasseAffaire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
