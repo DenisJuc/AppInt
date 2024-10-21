@@ -42,5 +42,9 @@
         </StackPanel>
         <Border Grid.Row="1" BorderBrush="Blue" BorderThickness="1"></Border>
         <TextBox x:Name="editeur_texte" Grid.Row="1" TextWrapping="Wrap"></TextBox>
+
+
+        
+        
     </Grid>
 </Window>

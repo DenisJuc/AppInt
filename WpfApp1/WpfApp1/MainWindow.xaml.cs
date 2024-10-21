@@ -18,6 +18,8 @@ namespace WpfApp1
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        public static readonly RoutedCommand routedCommand = new RoutedCommand();
         public MainWindow()
         {
             InitializeComponent();
@@ -63,5 +65,7 @@ namespace WpfApp1
         {
             editeur_texte.Text = "";
         }
+
+
     }
 }
