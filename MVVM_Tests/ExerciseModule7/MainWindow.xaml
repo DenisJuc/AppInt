@@ -1,0 +1,22 @@
+﻿<Window x:Class="ExerciseModule7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExerciseModule7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="160" Width="350">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:MainWindow.AfficherNomCommand"
+                        Executed="AfficherNomCommand_Executed"
+                        CanExecute="AfficherNomCommand_CanExecute"/>
+    </Window.CommandBindings>
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Entrez votre nom:" Margin="0,0,0,10" />
+            <TextBox Text="{Binding NomSaisi, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Content="Afficher nom" Command="{x:Static local:MainWindow.AfficherNomCommand}" Margin="0,10,0,10"/>
+            <TextBlock Text="{Binding NomAffiche}" />
+        </StackPanel>
+    </Grid>
+</Window>

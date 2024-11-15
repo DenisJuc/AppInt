@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversionXML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaddafa072194e38a7f334c402d272d2e8f9b378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ae6537b5c06e5d42141a796e3d41cad96f33b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversionXML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversionXML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

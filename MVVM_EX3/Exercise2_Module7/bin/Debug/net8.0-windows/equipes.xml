@@ -1,0 +1,17 @@
+<Ligue>
+  <Equipes>
+    <Equipe nom="Canadiens">
+      <Joueur>Josh Anderson</Joueur>
+      <Joueur>Joel Armia</Joueur>
+      <Joueur>David Savard</Joueur>
+      <Joueur>Alexander Romanov</Joueur>
+    </Equipe>
+    <Equipe nom="Maple Leafs">
+      <Joueur>Michael Amadio</Joueur>
+      <Joueur>Ondrej Kase</Joueur>
+      <Joueur>John Tavares</Joueur>
+      <Joueur>Justin Holl</Joueur>
+      <Joueur>Jack Campbell</Joueur>
+    </Equipe>
+  </Equipes>
+</Ligue>

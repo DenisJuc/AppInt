@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2249463\\source\\repos\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\MVVM.csproj|c:\\users\\2249463\\source\\repos\\mvvm\\mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\MVVM.csproj|c:\\users\\2249463\\source\\repos\\mvvm\\mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0EDF23-8456-47E2-B212-AA5797DC5197}|ModelView\\ModelView.csproj|c:\\users\\2249463\\source\\repos\\mvvm\\modelview\\personneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0EDF23-8456-47E2-B212-AA5797DC5197}|ModelView\\ModelView.csproj|solutionrelative:modelview\\personneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A7C0A-C7DD-46F1-8D32-E056032055CF}|Model\\Model.csproj|c:\\users\\2249463\\source\\repos\\mvvm\\model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A7C0A-C7DD-46F1-8D32-E056032055CF}|Model\\Model.csproj|solutionrelative:model\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\View.csproj|c:\\users\\2249463\\source\\repos\\mvvm\\mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BD4FD7-7E79-4D4C-ADDB-87E0C37A5EDC}|MVVM\\View.csproj|solutionrelative:mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MVVM\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\AssemblyInfo.cs",
+              "RelativeToolTip": "MVVM\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:59:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\MVVM\\Model\\Personne.cs",
+              "RelativeDocumentMoniker": "Model\\Personne.cs",
+              "ToolTip": "C:\\Users\\2249463\\source\\repos\\MVVM\\Model\\Personne.cs",
+              "RelativeToolTip": "Model\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:23:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonneViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\MVVM\\ModelView\\PersonneViewModel.cs",
+              "RelativeDocumentMoniker": "ModelView\\PersonneViewModel.cs",
+              "ToolTip": "C:\\Users\\2249463\\source\\repos\\MVVM\\ModelView\\PersonneViewModel.cs",
+              "RelativeToolTip": "ModelView\\PersonneViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:22:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T13:22:03.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\2249463\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:22:02.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

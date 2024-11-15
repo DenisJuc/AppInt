@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\MVVM_EX3",
+    "\\MVVM_Tests\\ExerciseModule7",
+    "\\MVVM_Tests\\Model",
+    "\\MVVM_Tests\\TestViewModel",
     "\\XML",
     "\\XML\\Exercice_2"
   ],
-  "SelectedNode": "\\XML\\Exercice_2\\Program.cs",
+  "SelectedNode": "\\MVVM_EX3\\Exercise2_Module7.sln",
   "PreviewInSolutionExplorer": false
 }

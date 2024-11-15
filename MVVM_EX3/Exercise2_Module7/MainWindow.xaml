@@ -1,0 +1,63 @@
+﻿<Window x:Class="Exercise2_Module7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Exercise2_Module7"
+        Title="Gestion des Équipes" Height="450" Width="800">
+    <!-- CommandBindings pour les RoutedCommands -->
+    <Window.CommandBindings>
+        <CommandBinding Command="local:MainWindow.AjouterEquipeCommand"
+                        Executed="AjouterEquipe_Executed" />
+        <CommandBinding Command="local:MainWindow.AjouterJoueurCommand"
+                        Executed="AjouterJoueur_Executed"
+                        CanExecute="PeutAjouterJoueur_CanExecute" />
+        <CommandBinding Command="local:MainWindow.RetirerJoueurCommand"
+                        Executed="RetirerJoueur_Executed"
+                        CanExecute="PeutRetirerJoueur_CanExecute" />
+    </Window.CommandBindings>
+
+    <!-- Layout Grid -->
+    <Grid Margin="10">
+        <!-- Define two columns -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Gestion des équipes -->
+        <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="Équipes:" Margin="0,0,0,5"/>
+            <ComboBox ItemsSource="{Binding Equipes , Mode=TwoWay}" 
+                      SelectedItem="{Binding EquipeSelectionnee}" 
+                      Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Nom équipe:" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding NouveauNomEquipe , Mode=TwoWay}" 
+                     Width="200" Margin="0,0,0,10"/>
+
+            <Button Content="Ajouter équipe" 
+                    Command="{x:Static local:MainWindow.AjouterEquipeCommand}" 
+                    Width="150"/>
+        </StackPanel>
+
+        <!-- Gestion des joueurs -->
+        <StackPanel Grid.Column="1" Margin="10">
+            <TextBlock Text="Joueurs:" Margin="0,0,0,5"/>
+            <ListBox ItemsSource="{Binding EquipeSelectionnee.Joueurs , Mode=TwoWay}" 
+                     SelectedItem="{Binding JoueurSelectionne , Mode=TwoWay}" 
+                     Height="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Nom joueur:" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding NouveauNomJoueur, Mode=TwoWay}" 
+                     Width="200" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button Content="Ajouter joueur" 
+                        Command="{x:Static local:MainWindow.AjouterJoueurCommand}" 
+                        Width="120" Margin="0,0,10,0"/>
+                <Button Content="Retirer joueur" 
+                        Command="{x:Static local:MainWindow.RetirerJoueurCommand}" 
+                        Width="120"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

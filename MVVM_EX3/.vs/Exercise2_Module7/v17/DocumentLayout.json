@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA28A0B-3BDC-40E0-A17D-BCDB62184FA4}|Exercise2_Module7\\Exercise2_Module7.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\exercise2_module7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA28A0B-3BDC-40E0-A17D-BCDB62184FA4}|Exercise2_Module7\\Exercise2_Module7.csproj|solutionrelative:exercise2_module7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA28A0B-3BDC-40E0-A17D-BCDB62184FA4}|Exercise2_Module7\\Exercise2_Module7.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\exercise2_module7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BA28A0B-3BDC-40E0-A17D-BCDB62184FA4}|Exercise2_Module7\\Exercise2_Module7.csproj|solutionrelative:exercise2_module7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85CA6D-D8ED-4F87-BBF1-F9548D998341}|ViewModel\\ViewModel.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\viewmodel\\ligueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D85CA6D-D8ED-4F87-BBF1-F9548D998341}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\ligueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20771674-4653-4AA1-AE20-AF561E24E2D6}|Model\\Model.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\model\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20771674-4653-4AA1-AE20-AF561E24E2D6}|Model\\Model.csproj|solutionrelative:model\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D85CA6D-D8ED-4F87-BBF1-F9548D998341}|ViewModel\\ViewModel.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D85CA6D-D8ED-4F87-BBF1-F9548D998341}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20771674-4653-4AA1-AE20-AF561E24E2D6}|Model\\Model.csproj|c:\\users\\2249463\\documents\\github\\appint\\mvvm_ex3\\model\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20771674-4653-4AA1-AE20-AF561E24E2D6}|Model\\Model.csproj|solutionrelative:model\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.csproj",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModel.csproj",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "ViewModel\\ViewModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T12:00:53.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Model\\Equipe.cs",
+              "RelativeDocumentMoniker": "Model\\Equipe.cs",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Model\\Equipe.cs",
+              "RelativeToolTip": "Model\\Equipe.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:55:18.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Model\\Joueur.cs",
+              "RelativeDocumentMoniker": "Model\\Joueur.cs",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Model\\Joueur.cs",
+              "RelativeToolTip": "Model\\Joueur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:54:45.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LigueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\ViewModel\\LigueViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\LigueViewModel.cs",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\ViewModel\\LigueViewModel.cs",
+              "RelativeToolTip": "ViewModel\\LigueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:54:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Exercise2_Module7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise2_Module7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Exercise2_Module7\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise2_Module7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T11:53:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Exercise2_Module7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Exercise2_Module7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\2249463\\Documents\\GitHub\\AppInt\\MVVM_EX3\\Exercise2_Module7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Exercise2_Module7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:53:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\2249463\source\repos\MVVM\ModelView\bin\Debug\ModelView.dll
+C:\Users\2249463\source\repos\MVVM\ModelView\bin\Debug\ModelView.pdb
+C:\Users\2249463\source\repos\MVVM\ModelView\bin\Debug\Model.dll
+C:\Users\2249463\source\repos\MVVM\ModelView\bin\Debug\Model.pdb
+C:\Users\2249463\source\repos\MVVM\ModelView\obj\Debug\ModelView.csproj.AssemblyReference.cache
+C:\Users\2249463\source\repos\MVVM\ModelView\obj\Debug\ModelView.csproj.CoreCompileInputs.cache
+C:\Users\2249463\source\repos\MVVM\ModelView\obj\Debug\ModelView.csproj.Up2Date
+C:\Users\2249463\source\repos\MVVM\ModelView\obj\Debug\ModelView.dll
+C:\Users\2249463\source\repos\MVVM\ModelView\obj\Debug\ModelView.pdb
